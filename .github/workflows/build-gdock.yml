@@ -82,5 +82,5 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
-        name: G-DOCK
+        name: G-DOCK 2021-01-19
         path: ./lede/bin
